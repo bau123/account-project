@@ -18,8 +18,9 @@ public class Service {
 		
 	}
 	
-	private void createJSon() {
+	public static Map getMap() {
+		return map;
+		
 	}
-	
 	
 }
